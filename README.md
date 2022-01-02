@@ -1,7 +1,30 @@
-# git-github-intro
-
 ## Git &amp; GitHub introduction repo 2021-22
+## Don't know how to contribute? Don't worry 😉 just follow the given steps
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
 
+```markdown
+git clone https://github.com/your-username/git-github-intro.git
+```
+
+* Create a branch
+
+```markdown
+git checkout -b YourRollNumber
+```
+
+* Add your info
+* Commit and push
+
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin YourRollNumber
+```
+
+* __After that you can see some changes on you forked repo__ 
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!🎉
 ### Name(Roll No) --- Github Username --- Batch --- E-mail<br/>
 
 - Anubhav Dixit(B19ME008) --- anubhavdxt --- 2019 --- anubhavdxt46@gmail.com<br/>
