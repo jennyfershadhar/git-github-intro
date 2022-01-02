@@ -11,3 +11,4 @@
 - Arkibud Broadwin Ryntathiang(B21ME001) --- arkibud --- 2021 --- b21me001@nitm.ac.in<br/>
 - Utkarsh Kumar (B18EC033) --- utkarshkanswal --- 2018 --- utkarshkanswal@gmail.com<br/>
 - Manish Kumar Dubey (B21EC021) ---dubeymanish4873 --- 2021 --- dubeymanish4873@gmail.com<br/>
+- Nitesh Singh(B21CS025) --- NITESH-SINGH-SE ---2021 --- niteshsingh.se@gmail.com<br/>
